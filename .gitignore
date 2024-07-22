@@ -1,0 +1,7 @@
+
+__pycache__
+.DS_Store
+SQL_queries
+data
+.venv
+.env
