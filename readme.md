@@ -1,4 +1,4 @@
-## ANONYMIZED
+## Evaluating Sequential Recommendations Repository
 The code in this repository is connected to the paper:
 Evaluating Sequential Recommendations “In the Wild”:
 A Case Study on Offline Accuracy, Click Rates, and Consumption
